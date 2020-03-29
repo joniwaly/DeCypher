@@ -1,0 +1,13 @@
+using System;
+
+public class UserInput
+{
+	static public void UserInput(int[] UserCode)
+	{
+		for(int i=1; i<6; i++)
+		{
+			Console.WriteLine($"Enter the {i} digit of your code: ");
+			UserCode[i]=int.Parse(Console.ReadLine());
+		}	
+	}
+}
