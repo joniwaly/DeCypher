@@ -1,0 +1,11 @@
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\Debug\obj\Debug\netcoreapp3.0\Debug.csprojAssemblyReference.cache
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\Debug\obj\Debug\netcoreapp3.0\Debug.AssemblyInfoInputs.cache
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\Debug\obj\Debug\netcoreapp3.0\Debug.AssemblyInfo.cs
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\Debug\bin\Debug\netcoreapp3.0\Debug.exe
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\Debug\bin\Debug\netcoreapp3.0\Debug.deps.json
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\Debug\bin\Debug\netcoreapp3.0\Debug.runtimeconfig.json
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\Debug\bin\Debug\netcoreapp3.0\Debug.runtimeconfig.dev.json
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\Debug\bin\Debug\netcoreapp3.0\Debug.dll
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\Debug\bin\Debug\netcoreapp3.0\Debug.pdb
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\Debug\obj\Debug\netcoreapp3.0\Debug.dll
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\Debug\obj\Debug\netcoreapp3.0\Debug.pdb
