@@ -1,0 +1,11 @@
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\AI_Alg\obj\Debug\netcoreapp3.0\AI_Alg.csprojAssemblyReference.cache
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\AI_Alg\obj\Debug\netcoreapp3.0\AI_Alg.AssemblyInfoInputs.cache
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\AI_Alg\obj\Debug\netcoreapp3.0\AI_Alg.AssemblyInfo.cs
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\AI_Alg\bin\Debug\netcoreapp3.0\AI_Alg.exe
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\AI_Alg\bin\Debug\netcoreapp3.0\AI_Alg.deps.json
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\AI_Alg\bin\Debug\netcoreapp3.0\AI_Alg.runtimeconfig.json
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\AI_Alg\bin\Debug\netcoreapp3.0\AI_Alg.runtimeconfig.dev.json
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\AI_Alg\bin\Debug\netcoreapp3.0\AI_Alg.dll
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\AI_Alg\bin\Debug\netcoreapp3.0\AI_Alg.pdb
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\AI_Alg\obj\Debug\netcoreapp3.0\AI_Alg.dll
+C:\Users\Jonathan Van-Doninck\Desktop\Programing\Programs\AI_Alg\obj\Debug\netcoreapp3.0\AI_Alg.pdb
